@@ -14,7 +14,7 @@ public class Quiz implements ActionListener{
 								{"Sun Microsystems","Starbucks","Microsoft","Alphabet"},
 								{"1989","1996","1972","1492"},
 								{"Apple","Latte","Oak","Koffing"},
-								{"Steve Jobs","Bill Gates","James Gosling","Mark Zuckerburg"}
+								{"Steve Jobs","Bill Gates","James Ghosling","Mark Zuckerburg"}
 							};
 	char[] answers = 		{
 								'A',
